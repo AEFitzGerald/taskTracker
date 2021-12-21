@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Work Retreat",
+      "day": "Jan 3rd at 2:30pm, 2022",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Personal Trainer",
+      "day": "Feb 6th at 1:30pm, 2022",
+      "reminder": false
+    },
+    {
+      "text": "Massage",
+      "day": "Dec 2nd at 9am, 2021",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
